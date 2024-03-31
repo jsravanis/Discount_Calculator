@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Discount_Calculator</string>
+    <string name="discountCalculator">Discount Calculator</string>
+    <string name="item_price_hint">Enter List Price</string>
+    <string name="item_price_label">Item Price:</string>
+    <string name="sale_label">Sale %</string>
+    <string name="ten_percent_label">10%</string>
+    <string name="fifteen_percent_label">15%</string>
+    <string name="eighteen_percent_label">18%</string>
+    <string name="custom_radio_label">Custom</string>
+    <string name="custom_percent_label">Custom %:</string>
+    <string name="discount_label">Discount:</string>
+    <string name="final_price_label">Final Price:</string>
+    <string name="reset_label">Reset</string>
+    <string name="calculate_label">Calculate</string>
+</resources>
